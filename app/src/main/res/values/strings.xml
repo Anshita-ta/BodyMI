@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BodyMI</string>
+    <string name="hintwht">Enter Your Weight</string>
+    <string name="hinthtF">Enter Your Height(in Feet)</string>
+    <string name="hinthti">Enter Your Height(in inches)</string>
+
+</resources>
